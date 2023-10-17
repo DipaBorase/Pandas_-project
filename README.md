@@ -1,2 +1,3 @@
 # Pandas-Project
-This is end to end Pandas project on Data Analystics
+This is  Data Analystics using Python Pandas.
+
